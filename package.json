@@ -9,6 +9,7 @@
     "lint": "turbo run lint"
   },
   "devDependencies": {
+    "git-commit-msg-linter": "^4.5.0",
     "turbo": "^1.6.3"
   }
 }
