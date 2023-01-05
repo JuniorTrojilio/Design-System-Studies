@@ -1,0 +1,6 @@
+{
+  "extends": "@juniortrojilio/typescript/react.json",
+  "include": [
+    "src"
+  ]
+}
